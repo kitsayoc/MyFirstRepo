@@ -1,6 +1,12 @@
+.container {
+    height: 250px;
+}
+
 .navbtn {
     display: inline-block;
-    padding: 10px;
+    padding: 20px;
     background-color: #555555;
     color: white;
+    width: 15%;
+    text-align: center;
 }
